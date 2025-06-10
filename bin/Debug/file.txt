@@ -1,0 +1,108 @@
+Id : 1
+Category: suger
+Quantity: 81
+Price: 40.00
+date: 2024-11-04  10:00:24
+
+Id : 2
+Category: coffee
+Quantity: 193
+Price: 65.00
+date: 2024-08-18  01:32:38
+
+Id : 3
+Category: bisciute
+Quantity: 396
+Price: 10.00
+date: 2024-08-18  01:32:44
+
+Id : 4
+Category: cheese
+Quantity: 695
+Price: 30.00
+date: 2024-08-18  01:33:00
+
+Id : 5
+Category: water
+Quantity: 993
+Price: 8.00
+date: 2024-08-18  01:33:06
+
+Id : 6
+Category: milk
+Quantity: 391
+Price: 45.00
+date: 2024-08-18  01:33:20
+
+Id : 7
+Category: tea
+Quantity: 294
+Price: 30.00
+date: 2024-08-18  01:33:15
+
+Id : 8
+Category: juise
+Quantity: 1499
+Price: 10.00
+date: 2024-07-27  02:07:10
+
+Id : 9
+Category: pepsi
+Quantity: 898
+Price: 43.00
+date: 2025-01-26  01:12:13
+
+Id : 10
+Category: abdel maboud coffee
+Quantity: 998
+Price: 70.00
+date: 2024-08-18  01:33:24
+
+Id : 11
+Category: pepsi can
+Quantity: 1995
+Price: 20.00
+date: 2024-08-04  01:59:46
+
+Id : 12
+Category: cocacola
+Quantity: 691
+Price: 25.00
+date: 2024-08-18  01:27:47
+
+Id : 13
+Category: limonada
+Quantity: 999
+Price: 25.00
+date: 2024-08-02  17:11:54
+
+Id : 14
+Category: popcorn
+Quantity: 99
+Price: 80.00
+date: 2024-08-04  02:29:37
+
+Id : 15
+Category: eges
+Quantity: 165
+Price: 5.00
+date: 2024-11-04  09:58:34
+
+Id : 16
+Category: juise
+Quantity: 488
+Price: 25.00
+date: 2024-11-04  09:59:16
+
+Id : 17
+Category: gifts
+Quantity: 998
+Price: 25.00
+date: 2025-01-26  01:11:53
+
+Id : 18
+Category: bills
+Quantity: 96
+Price: 120.00
+date: 2025-03-09  22:53:04
+

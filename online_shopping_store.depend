@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1713742570 source:e:\eslam\online_shopping_store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"online_store.h"
+
+1713738252 e:\eslam\online_shopping_store\online_store.h
+	<stdbool.h>
+
+1713741724 source:e:\eslam\online_shopping_store\online_store.c
+	"online_store.h"
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+
+1715164040 source:d:\ds\online_shopping_store\online_store.c
+	"online_store.h"
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+
+1713741852 d:\ds\online_shopping_store\online_store.h
+	<stdbool.h>
+
+1715159856 source:d:\ds\online_shopping_store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"online_store.h"
+
+1720997521 source:c:\users\smart\desktop\online_shopping_store\main.c
+	<stdio.h>
+	<stdlib.h>
+	"online_store.h"
+	<stdbool.h>
+	<time.h>
+
+1719958951 c:\users\smart\desktop\online_shopping_store\online_store.h
+	<stdbool.h>
+	<time.h>
+
+1719960330 source:c:\users\smart\desktop\online_shopping_store\online_store.c
+	"online_store.h"
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+

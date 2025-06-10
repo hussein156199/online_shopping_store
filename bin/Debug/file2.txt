@@ -1,0 +1,822 @@
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-03  01:50:02
+
+Id : 2
+type: tea
+sales: 2
+purchases: 40.00
+date: 2024-07-03  01:50:06
+
+Id : 3
+type: milk
+sales: 3
+purchases: 30.00
+date: 2024-07-03  01:50:10
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-03  20:33:46
+
+Id : 2
+type: tea
+sales: 500
+purchases: 10000.00
+date: 2024-07-03  20:34:13
+
+Id : 3
+type: milk
+sales: 90
+purchases: 900.00
+date: 2024-07-03  20:34:23
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-03  20:34:54
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-10  15:48:02
+
+Id : 4
+type: coffee
+sales: 1
+purchases: 20.00
+date: 2024-07-10  15:49:17
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-15  00:14:43
+
+Id : 2
+type: tea
+sales: 1
+purchases: 20.00
+date: 2024-07-15  00:14:47
+
+Id : 4
+type: coffee
+sales: 100
+purchases: 2000.00
+date: 2024-07-15  00:15:16
+
+Id : 4
+type: coffee
+sales: 50
+purchases: 1000.00
+date: 2024-07-15  00:15:23
+
+Id : 1
+type: food
+sales: 495
+purchases: 9900.00
+date: 2024-07-15  00:14:43
+
+Id : 2
+type: tea
+sales: 97
+purchases: 1940.00
+date: 2024-07-15  00:14:47
+
+Id : 3
+type: milk
+sales: 7
+purchases: 70.00
+date: 2024-07-03  20:34:23
+
+Id : 4
+type: coffee
+sales: 249
+purchases: 4980.00
+date: 2024-07-15  00:15:23
+
+Id : 4
+type: coffee
+sales: 249
+purchases: 4980.00
+date: 2024-07-15  00:15:23
+
+Id : 1
+type: food
+sales: 10
+purchases: 200.00
+date: 2024-07-15  00:40:10
+
+Id : 2
+type: tea
+sales: 20
+purchases: 400.00
+date: 2024-07-15  00:40:15
+
+Id : 3
+type: milk
+sales: 30
+purchases: 300.00
+date: 2024-07-15  00:40:18
+
+Id : 4
+type: coffee
+sales: 40
+purchases: 800.00
+date: 2024-07-15  00:40:21
+
+Id : 1
+type: food
+sales: 10
+purchases: 200.00
+date: 2024-07-15  01:25:47
+
+Id : 2
+type: tea
+sales: 20
+purchases: 400.00
+date: 2024-07-15  01:25:50
+
+Id : 3
+type: milk
+sales: 30
+purchases: 300.00
+date: 2024-07-15  01:25:55
+
+Id : 4
+type: coffee
+sales: 40
+purchases: 800.00
+date: 2024-07-15  01:25:57
+
+Id : 1
+type: food
+sales: 10
+purchases: 200.00
+date: 2024-07-15  01:26:08
+
+Id : 2
+type: tea
+sales: 20
+purchases: 400.00
+date: 2024-07-15  01:26:11
+
+Id : 3
+type: milk
+sales: 30
+purchases: 300.00
+date: 2024-07-15  01:26:18
+
+Id : 4
+type: coffee
+sales: 40
+purchases: 800.00
+date: 2024-07-15  01:26:25
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-15  01:27:08
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-15  01:27:08
+
+Id : 1
+type: food
+sales: 9
+purchases: 180.00
+date: 2024-07-15  01:27:25
+
+Id : 1
+type: food
+sales: 60
+purchases: 1200.00
+date: 2024-07-15  01:27:25
+
+Id : 2
+type: tea
+sales: 140
+purchases: 2800.00
+date: 2024-07-15  01:26:11
+
+Id : 3
+type: milk
+sales: 210
+purchases: 2100.00
+date: 2024-07-15  01:26:18
+
+Id : 4
+type: coffee
+sales: 280
+purchases: 5600.00
+date: 2024-07-15  01:26:25
+
+Id : 5
+type: juise
+sales: 1000
+purchases: 10000.00
+date: 2024-07-15  01:57:39
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-22  03:19:05
+
+Id : 2
+type: tea
+sales: 2
+purchases: 40.00
+date: 2024-07-22  03:19:11
+
+Id : 3
+type: milk
+sales: 3
+purchases: 30.00
+date: 2024-07-22  03:19:13
+
+Id : 4
+type: coffee
+sales: 4
+purchases: 80.00
+date: 2024-07-22  03:19:16
+
+Id : 5
+type: juise
+sales: 5
+purchases: 50.00
+date: 2024-07-22  03:19:22
+
+Id : 1
+type: food
+sales: 1
+purchases: 20.00
+date: 2024-07-22  03:20:09
+
+Id : 2
+type: tea
+sales: 2
+purchases: 40.00
+date: 2024-07-22  03:20:12
+
+Id : 3
+type: milk
+sales: 3
+purchases: 30.00
+date: 2024-07-22  03:20:15
+
+Id : 4
+type: coffee
+sales: 4
+purchases: 80.00
+date: 2024-07-22  03:20:19
+
+Id : 5
+type: juise
+sales: 5
+purchases: 50.00
+date: 2024-07-22  03:20:28
+
+Id : 6
+type: pepsi
+sales: 1
+purchases: 60.00
+date: 2024-07-22  03:21:18
+
+Id : 7
+type: johina
+sales: 1
+purchases: 70.00
+date: 2024-07-22  03:21:21
+
+Id : 7
+type: johina
+sales: 200
+purchases: 14000.00
+date: 2024-07-22  03:21:26
+
+Id : 8
+type: suger
+sales: 100
+purchases: 3000.00
+date: 2024-07-22  03:23:04
+
+Id : 8
+type: suger
+sales: 100
+purchases: 3000.00
+date: 2024-07-22  03:23:04
+
+Id : 1
+type: food
+sales: 50
+purchases: 5000.00
+date: 2024-07-22  03:25:07
+
+Id : 2
+type: tea
+sales: 20
+purchases: 1000.00
+date: 2024-07-22  03:25:11
+
+Id : 3
+type: milk
+sales: 30
+purchases: 600.00
+date: 2024-07-22  03:25:16
+
+Id : 4
+type: coffee
+sales: 40
+purchases: 1000.00
+date: 2024-07-22  03:25:20
+
+Id : 8
+type: suger
+sales: 80
+purchases: 40000.00
+date: 2024-07-22  03:25:23
+
+Id : 6
+type: pepsi
+sales: 60
+purchases: 4800.00
+date: 2024-07-22  03:25:28
+
+Id : 6
+type: pepsi
+sales: 60
+purchases: 4800.00
+date: 2024-07-22  03:25:28
+
+Id : 5
+type: juise
+sales: 50
+purchases: 750.00
+date: 2024-07-22  03:25:37
+
+Id : 1
+type: food
+sales: 1
+purchases: 100.00
+date: 2024-07-22  03:29:55
+
+Id : 2
+type: tea
+sales: 1
+purchases: 50.00
+date: 2024-07-22  03:29:58
+
+Id : 3
+type: milk
+sales: 1
+purchases: 20.00
+date: 2024-07-22  03:30:01
+
+Id : 4
+type: coffee
+sales: 1
+purchases: 25.00
+date: 2024-07-22  03:30:04
+
+Id : 5
+type: juise
+sales: 1
+purchases: 15.00
+date: 2024-07-22  03:30:10
+
+Id : 7
+type: johina
+sales: 1
+purchases: 70.00
+date: 2024-07-22  03:30:15
+
+Id : 8
+type: suger
+sales: 1
+purchases: 500.00
+date: 2024-07-22  03:30:19
+
+Id : 1
+type: food
+sales: 39
+purchases: 3900.00
+date: 2024-07-22  03:29:55
+
+Id : 2
+type: tea
+sales: 175
+purchases: 8750.00
+date: 2024-07-22  03:29:58
+
+Id : 3
+type: milk
+sales: 263
+purchases: 5260.00
+date: 2024-07-22  03:30:01
+
+Id : 4
+type: coffee
+sales: 351
+purchases: 8775.00
+date: 2024-07-22  03:30:04
+
+Id : 5
+type: juise
+sales: 438
+purchases: 6570.00
+date: 2024-07-27  01:53:05
+
+Id : 5
+type: juise
+sales: 1
+purchases: 15.00
+date: 2024-07-27  01:53:05
+
+Id : 6
+type: pepsi
+sales: 539
+purchases: 43120.00
+date: 2024-07-22  03:25:28
+
+Id : 7
+type: johina
+sales: 498
+purchases: 34860.00
+date: 2024-07-22  03:30:15
+
+Id : 8
+type: suger
+sales: 819
+purchases: 409500.00
+date: 2024-07-22  03:30:19
+
+Id : 8
+type: suger
+sales: 819
+purchases: 409500.00
+date: 2024-07-22  03:30:19
+
+Id : 1
+type: suger
+sales: 1
+purchases: 40.00
+date: 2024-07-27  02:06:49
+
+Id : 2
+type: coffee
+sales: 1
+purchases: 65.00
+date: 2024-07-27  02:06:51
+
+Id : 3
+type: bisciute
+sales: 1
+purchases: 10.00
+date: 2024-07-27  02:06:55
+
+Id : 4
+type: cheese
+sales: 1
+purchases: 30.00
+date: 2024-07-27  02:06:59
+
+Id : 5
+type: water
+sales: 1
+purchases: 8.00
+date: 2024-07-27  02:07:01
+
+Id : 6
+type: milk
+sales: 1
+purchases: 45.00
+date: 2024-07-27  02:07:04
+
+Id : 7
+type: tea
+sales: 1
+purchases: 30.00
+date: 2024-07-27  02:07:07
+
+Id : 8
+type: juise
+sales: 1
+purchases: 10.00
+date: 2024-07-27  02:07:10
+
+Id : 9
+type: pepsi
+sales: 1
+purchases: 43.00
+date: 2024-07-27  02:07:13
+
+Id : 10
+type: abdel
+sales: 1
+purchases: 70.00
+date: 2024-07-27  02:07:17
+
+Id : 12
+type: cocacola
+sales: 1
+purchases: 25.00
+date: 2024-07-27  02:07:26
+
+Id : 11
+type: pepsi
+sales: 1
+purchases: 20.00
+date: 2024-07-27  02:07:28
+
+Id : 1
+type: suger
+sales: 2
+purchases: 80.00
+date: 2024-07-27  02:07:36
+
+Id : 12
+type: cocacola
+sales: 2
+purchases: 50.00
+date: 2024-07-27  02:07:42
+
+Id : 5
+type: water
+sales: 2
+purchases: 16.00
+date: 2024-07-27  02:07:52
+
+Id : 1
+type: suger
+sales: 2
+purchases: 80.00
+date: 2024-07-27  02:08:03
+
+Id : 2
+type: coffee
+sales: 1
+purchases: 65.00
+date: 2024-07-27  02:08:09
+
+Id : 1
+type: suger
+sales: 1
+purchases: 40.00
+date: 2024-07-27  02:11:16
+
+Id : 1
+type: suger
+sales: 1
+purchases: 40.00
+date: 2024-07-27  02:11:21
+
+Id : 7
+type: tea
+sales: 1
+purchases: 30.00
+date: 2024-07-27  02:11:28
+
+Id : 5
+type: water
+sales: 1
+purchases: 8.00
+date: 2024-07-27  02:12:00
+
+Id : 11
+type: pepsi
+sales: 1
+purchases: 20.00
+date: 2024-07-27  02:12:08
+
+Id : 2
+type: coffee
+sales: 1
+purchases: 65.00
+date: 2024-07-27  02:12:20
+
+Id : 13
+type: limonada
+sales: 1
+purchases: 25.00
+date: 2024-08-02  17:11:54
+
+Id : 1
+type: suger
+sales: 1
+purchases: 40.00
+date: 2024-08-02  17:12:03
+
+Id : 5
+type: water
+sales: 1
+purchases: 8.00
+date: 2024-08-02  17:12:08
+
+Id : 1
+type: suger
+sales: 2
+purchases: 80.00
+date: 2024-08-04  01:59:15
+
+Id : 5
+type: water
+sales: 1
+purchases: 8.00
+date: 2024-08-04  01:59:37
+
+Id : 11
+type: pepsi
+sales: 3
+purchases: 60.00
+date: 2024-08-04  01:59:46
+
+Id : 12
+type: cocacola
+sales: 1
+purchases: 25.00
+date: 2024-08-04  02:29:26
+
+Id : 14
+type: popcorn
+sales: 1
+purchases: 80.00
+date: 2024-08-04  02:29:37
+
+Id : 15
+type: eges
+sales: 10
+purchases: 50.00
+date: 2024-08-15  00:47:10
+
+Id : 2
+type: coffee
+sales: 1
+purchases: 65.00
+date: 2024-08-15  00:47:18
+
+Id : 1
+type: suger
+sales: 1
+purchases: 40.00
+date: 2024-08-18  01:26:40
+
+Id : 2
+type: coffee
+sales: 1
+purchases: 65.00
+date: 2024-08-18  01:26:44
+
+Id : 4
+type: cheese
+sales: 1
+purchases: 30.00
+date: 2024-08-18  01:27:05
+
+Id : 15
+type: eges
+sales: 20
+purchases: 100.00
+date: 2024-08-18  01:27:16
+
+Id : 12
+type: cocacola
+sales: 5
+purchases: 125.00
+date: 2024-08-18  01:27:47
+
+Id : 1
+type: suger
+sales: 100
+purchases: 4000.00
+date: 2024-08-18  01:28:37
+
+Id : 1
+type: suger
+sales: 1
+purchases: 40.00
+date: 2024-08-18  01:32:33
+
+Id : 2
+type: coffee
+sales: 2
+purchases: 130.00
+date: 2024-08-18  01:32:38
+
+Id : 3
+type: bisciute
+sales: 3
+purchases: 30.00
+date: 2024-08-18  01:32:44
+
+Id : 4
+type: cheese
+sales: 1
+purchases: 30.00
+date: 2024-08-18  01:32:52
+
+Id : 4
+type: cheese
+sales: 1
+purchases: 30.00
+date: 2024-08-18  01:33:00
+
+Id : 5
+type: water
+sales: 1
+purchases: 8.00
+date: 2024-08-18  01:33:06
+
+Id : 6
+type: milk
+sales: 6
+purchases: 270.00
+date: 2024-08-18  01:33:12
+
+Id : 7
+type: tea
+sales: 4
+purchases: 120.00
+date: 2024-08-18  01:33:15
+
+Id : 6
+type: milk
+sales: 2
+purchases: 90.00
+date: 2024-08-18  01:33:20
+
+Id : 10
+type: abdel
+sales: 1
+purchases: 70.00
+date: 2024-08-18  01:33:24
+
+Id : 16
+type: cheese
+sales: 2
+purchases: 40.00
+date: 2024-08-29  23:39:02
+
+Id : 1
+type: suger
+sales: 1
+purchases: 40.00
+date: 2024-08-29  23:39:41
+
+Id : 1
+type: suger
+sales: 2
+purchases: 80.00
+date: 2024-09-07  01:19:54
+
+Id : 1
+type: suger
+sales: 2
+purchases: 80.00
+date: 2024-11-04  09:58:28
+
+Id : 15
+type: eges
+sales: 5
+purchases: 25.00
+date: 2024-11-04  09:58:34
+
+Id : 16
+type: juise
+sales: 12
+purchases: 300.00
+date: 2024-11-04  09:59:16
+
+Id : 17
+type: gifts
+sales: 2
+purchases: 50.00
+date: 2025-01-26  01:11:53
+
+Id : 9
+type: pepsi
+sales: 1
+purchases: 43.00
+date: 2025-01-26  01:12:13
+
+Id : 18
+type: bills
+sales: 1
+purchases: 120.00
+date: 2025-03-09  22:52:56
+
+Id : 18
+type: bills
+sales: 3
+purchases: 360.00
+date: 2025-03-09  22:53:04
+
